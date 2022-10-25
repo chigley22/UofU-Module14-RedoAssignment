@@ -61,7 +61,8 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ## License
 
 ## Contributing
-
+## Mock-Up
+![tech blog screenshot](./assets/techblogscreenshot.png)
 ## Tests
 
 n/a
